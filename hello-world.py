@@ -4,7 +4,7 @@ a program
 
 
 def main():
-    print("Hello World")
+    print("***** Hello World *****")
 
 
 def some_function():
